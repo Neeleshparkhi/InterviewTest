@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-20T00:29:25 IST" name="Default suite" finished-at="2020-05-20T00:30:53 IST" duration-ms="87993">
+    <groups>
+    </groups>
+    <test started-at="2020-05-20T00:29:25 IST" name="Default test" finished-at="2020-05-20T00:30:53 IST" duration-ms="87993">
+      <class name="UserLogin.UserLogin">
+        <test-method signature="Login()[pri:1, instance:UserLogin.UserLogin@76f2bbc1]" started-at="2020-05-20T00:29:25 IST" name="Login" finished-at="2020-05-20T00:29:45 IST" duration-ms="20171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="purchase()[pri:2, instance:UserLogin.UserLogin@76f2bbc1]" started-at="2020-05-20T00:29:45 IST" name="purchase" finished-at="2020-05-20T00:30:48 IST" duration-ms="62746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchase -->
+        <test-method signature="OrderHistory()[pri:3, instance:UserLogin.UserLogin@76f2bbc1]" started-at="2020-05-20T00:30:48 IST" name="OrderHistory" finished-at="2020-05-20T00:30:53 IST" duration-ms="5033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderHistory -->
+      </class> <!-- UserLogin.UserLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
